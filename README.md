@@ -52,7 +52,7 @@ Generally first proto should look like:
 2. `[x]` Hardware prototype for signaling front-end, ADC and FPGA is set up
 3. `[/]` Writing code for FPGA <-> ADC I/O (VHDL) `<-- We are here`
 4. `[ ]` Capture waveforms via ADC/FPGA, check for sanity and compare with oscilloscope waveforms to make sure hardware is OK
-5. `[ ]` Write code for FPGA <-> MIDI I/O (VHDL) (well... it's basically it UART)
+5. `[ ]` Write code for FPGA <-> MIDI I/O (VHDL) (well... it's basically an UART)
 6. `[ ]` Do rough triggering end measure delay
 7. `[ ]` Gather multiple samples, build math model for DSP, evaluate expected performance, tune hardware
 8. `[ ]` Implement DSP in FPGA (VHDL)
