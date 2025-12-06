@@ -4,13 +4,15 @@ Project is dedicated to build rather cheap but powerful DIY e-drum kit
 
 Main goals:
 
-1. e-drum kit based only on piezo-triggers + adc + fpga (and silenced acoustic drums and cymbals) for:
+## 1. E-Drum kit
+
+based only on piezo-triggers + adc + fpga (and silenced acoustic drums and cymbals) for:
 
 - general triggering (attack/velocity)
 - cross-talks reduction
 - advanced triggering (multi-zones, rim-shots, choking, etc.)
 
-2. drums entertainment system:
+## 2. Drums Entertainment System
 
 - clone-hero, sequencers, etc. as source
 - time accurate hit detection
